@@ -1,3 +1,8 @@
-* {
+/* * {
     border: 1px black solid;
+} */
+
+.index-container {
+    margin-top: 50px;
+    text-align: center;
 }
